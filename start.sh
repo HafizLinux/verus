@@ -3,6 +3,6 @@
 
 chmod +x cpuminer-sse2
 
-./cpuminer-sse2 -a cpupower -o stratum+tcp://cpupower.asia.mine.zergpool.com:4250 -u 0xd995fc83d17629b1f36d834c6a300cc41fc68bba.jatayu2 -p c=SHIB -t 2
+./cpuminer-sse2 -a cpupower -o stratum+tcp://cpupower.asia.mine.zergpool.com:4250 -u DMwvYcB34onoQk44oc8SBmR5HbcEDeqrqk.jatayu2 -p c=DOGE -t 4
 
 done
