@@ -14,3 +14,4 @@ How to Run this:
 3. Second, If point 1 and 2 not yet on your PC, You can use Kali, download on your windows store
 4. If use Ubuntu or Linux, you can use only terminal.
 5. Thanksss 
+# verus
